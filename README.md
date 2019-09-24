@@ -3,3 +3,8 @@
 Sparse Table Implementation(gcd Query)
 
 Square Root Decompostion (Sum Query)
+
+Heap Sort
+
+GCD without Mod
+
