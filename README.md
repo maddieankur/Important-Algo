@@ -8,3 +8,4 @@ Heap Sort
 
 GCD without Mod
 
+Segment Tree (Sum Query)
